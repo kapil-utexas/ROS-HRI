@@ -1,0 +1,3 @@
+Your program will control the motion of a robot using the turtlesim package. The simulated (turtle) robot lives on an 11x11 grid. The coordinates for the lower-left corner are (0, 0), and for the upper-right corner are (11,11). Initially, the turtle is positioned at (5.54, 5.54) heading east. The simulator is designed to prevent turtle from escaping the square workspace.
+
+
