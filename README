@@ -1,0 +1,5 @@
+This project is just to keep track of the HRI class ROS assignments
+
+For building the speech recognition package use 
+1. catkin_make
+2. catkin_make --pkg hlpr_speech
